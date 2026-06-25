@@ -3,15 +3,6 @@
 A Java Swing-based desktop application that converts English text into Morse Code and Morse Code back into English.
 The application provides a simple and interactive graphical interface with real-time translation support.
 
-✨ Features
-
-- 🔤 Convert English text to Morse Code
-- 📡 Convert Morse Code to English
-- 🖥️ User-friendly Java Swing GUI
-- ⚡ Fast and accurate translation
-- 🎵 Morse code sound playback
-- ❌ Input validation for invalid characters
-
 🛠️ Tech Stack
 
 - Java
