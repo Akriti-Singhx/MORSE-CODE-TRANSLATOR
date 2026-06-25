@@ -15,7 +15,8 @@ The application provides a simple and interactive graphical interface with real-
 📂 Project Structure
 
 src/
-│
+
+    │
 
     ├── App.java
 
