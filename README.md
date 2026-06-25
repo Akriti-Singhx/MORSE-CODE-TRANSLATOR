@@ -5,12 +5,12 @@ The application provides a simple and interactive graphical interface with real-
 
 ✨ Features
 
-🔤 Convert English text to Morse Code
-📡 Convert Morse Code to English
-🖥️ User-friendly Java Swing GUI
-⚡ Fast and accurate translation
-🎵 Morse code sound playback
-❌ Input validation for invalid characters
+- 🔤 Convert English text to Morse Code
+- 📡 Convert Morse Code to English
+- 🖥️ User-friendly Java Swing GUI
+- ⚡ Fast and accurate translation
+- 🎵 Morse code sound playback
+- ❌ Input validation for invalid characters
 
 🛠️ Tech Stack
 
