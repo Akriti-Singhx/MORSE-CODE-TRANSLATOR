@@ -28,14 +28,6 @@ src/
 3. Run
 App.java
 
-📚 Concepts Used
-
-- Java Swing GUI
-- HashMap
-- Event Listeners
-- OOP Concepts
-- Exception Handling
-- Java Sound API
 
 👩‍💻 Author
 Akriti Singh
