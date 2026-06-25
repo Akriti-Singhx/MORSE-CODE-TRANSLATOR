@@ -17,11 +17,11 @@ The application provides a simple and interactive graphical interface with real-
 src/
 │
 
-├── App.java
+    ├── App.java
 
-├── MorseCodeController.java
+    ├── MorseCodeController.java
 
-└── MorseCodeTranslatorGUI.java
+    └── MorseCodeTranslatorGUI.java
 
 🚀 How to Run
 
