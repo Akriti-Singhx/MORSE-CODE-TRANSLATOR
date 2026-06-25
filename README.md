@@ -14,12 +14,11 @@ The application provides a simple and interactive graphical interface with real-
 
 📂 Project Structure
 
-src/
-
-    │
-    ├── App.java
-    ├── MorseCodeController.java
-    └── MorseCodeTranslatorGUI.java
+    src/
+        │
+        ├── App.java
+        ├── MorseCodeController.java
+        └── MorseCodeTranslatorGUI.java
 
 🚀 How to Run
 
